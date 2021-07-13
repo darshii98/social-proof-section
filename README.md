@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/darshii98/faq-accordion-card)
-- Live Site URL: [Github Pages](https://darshii98.github.io/faq-accordion-card/)
+- Solution URL: [Github Repo](https://github.com/darshii98/social-proof-section)
+- Live Site URL: [Github Pages](https://darshii98.github.io/social-proof-section/)
 
 ### Built with
 
